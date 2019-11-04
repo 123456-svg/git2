@@ -1,0 +1,4 @@
+Node.js是一个让javascript运行在服务器端的开发平台。基于chormV8 使用javascrity。js
+node,js适合开发什么样的应用程序
+当应用程序需要处理大量并发的I/o，而在向客户端发出相应之前，应用程序并不需要进行复杂的处理的时候
+。node。js非常适合。node.js也非常适合与web-socket配合。开发长连接的实时交互应用程序
